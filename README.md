@@ -20,3 +20,9 @@ The Datasets are available in folder titled Activity Data
 4) DisplayModel.m plots the acceleration recorded in the modelling trials stored in the given folder.
 
 3) Mini_Project.ipynb performs the ML to create the model
+
+#### **RUN INSTRUCTIONS**
+
+All code files can be run on MATLAB
+
+.ipynb file has to be run using jupyter notebooks
