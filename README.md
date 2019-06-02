@@ -1,2 +1,2 @@
-# ADL-Recogition-using-Wrist-Placed-Accelerometers
+# ADL Recogition using Wrist Placed Accelerometers
 
