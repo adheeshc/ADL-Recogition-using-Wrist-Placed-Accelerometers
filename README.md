@@ -1,2 +1,2 @@
-# Accelerometer-Data-Analysis
-Sensor Systems Nov'19
+# ADL-Recogition-using-Wrist-Placed-Accelerometers
+
